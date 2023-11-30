@@ -1,5 +1,5 @@
 # ENAHO-DATA
-Facilitar el uso de la base de datos de la ENAHO - 2022
+# Facilitar el uso de la base de datos de la ENAHO - 2022
 # `enahodata` : Download National Household Survey on Living Conditions and Poverty data from INEI - Perú.
 
 ## Installation
