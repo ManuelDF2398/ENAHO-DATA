@@ -61,6 +61,10 @@ Las contribuciones a este proyecto son bienvenidas. Si deseas contribuir, por fa
 
 Todo el contenido de este repositorio ha sido creado por Manuel Antonio Díaz Flores. El uso de este material es exclusivamente con fines educacionales e investigativos.
 
+## Código de Conducta
+
+Este proyecto sigue el [Código de Conducta](CODE_OF_CONDUCT.md). Al participar, te pedimos que respetes estas directrices para asegurar un ambiente colaborativo y positivo para todos.
+
 ## Contacto
 
 Para más información o consultas, puedes contactarme a través de mi WhatsApp: +51 983693233 o mediante GitHub https://github.com/ManuelDF2398
