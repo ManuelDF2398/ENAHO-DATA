@@ -36,7 +36,7 @@ Para utilizar este proyecto, necesitarás:
 4. Abre Stata y ejecuta el DO file proporcionado:
 
     ```stata
-    do enaho_descarga_ordenamiento.do
+    do enaho_base1.do
     ```
 
 ## Ejemplos de Uso
