@@ -1,6 +1,6 @@
 ## MANUEL ANTONIO DÍAZ FLORES - AUTOR INTELECCTUAL
 
-# USO BASE DE DATOS ENAHO PERÍODO 2018 - 2022
+# USO BASE DE DATOS PANEL - ENAHO 2018 - 2022 (Se puede actualizar).
 
 Este repositorio contiene un DO file para Stata que permite el uso y análisis de los datos de la Encuesta Nacional de Hogares (ENAHO) en formato panel para el período 2018 - 2022. La metodología ha sido actualizada para asegurar la precisión y eficiencia en el manejo de los datos.
 
