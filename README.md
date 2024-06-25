@@ -59,7 +59,7 @@ Las contribuciones a este proyecto son bienvenidas. Si deseas contribuir, por fa
 
 ## Licencia
 
-Todo el contenido de este repositorio ha sido creado por Manuel Antonio Díaz Flores. El uso de este material es exclusivamente con fines educacionales e investigativos.
+Todo el contenido de este repositorio ha sido creado por Manuel Antonio Díaz Flores. El uso de este material es exclusivamente basado en la [licencia](LICENSE.md) con fines educacionales e investigativos.
 
 ## Código de Conducta
 
