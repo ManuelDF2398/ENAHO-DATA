@@ -40,6 +40,8 @@ Los mantenedores del proyecto que no sigan o hagan cumplir el Código de Conduct
 
 ## Atribución
 
-Este Código de Conducta es una adaptación del Contributor Covenant, versión 2.0, disponible en https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+Este Código de Conducta es una adaptación del [Contributor Covenant][homepage], versión 2.0, disponible en https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+[homepage]: https://www.contributor-covenant.org
 
 Para respuestas a preguntas comunes sobre este código de conducta, consulta las FAQ en https://www.contributor-covenant.org/faq. Las traducciones están disponibles en https://www.contributor-covenant.org/translations.
