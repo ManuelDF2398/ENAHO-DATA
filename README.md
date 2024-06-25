@@ -67,4 +67,4 @@ Este proyecto sigue el [Código de Conducta](CODE_OF_CONDUCT.md). Al participar,
 
 ## Contacto
 
-Para más información o consultas, puedes contactarme a través de mi WhatsApp: +51 983693233 o mediante GitHub https://github.com/ManuelDF2398
+Para más información o consultas, puedes contactarme a través de mi WhatsApp: +51 983693233, correo electrónico a20224187@pucp.edu.pe, o mediante GitHub https://github.com/ManuelDF2398
