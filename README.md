@@ -42,7 +42,7 @@ Para utilizar este proyecto, necesitarás:
     do enaho_base1.do
     ```
 
-## Ejemplos de Uso
+## Uso
 
 Para utilizar el DO file y comenzar a trabajar con los datos de la ENAHO, sigue estos pasos básicos:
 
