@@ -11,6 +11,7 @@ Este repositorio contiene un DO file para Stata que permite el uso y análisis d
 - Incluye un DO file específico para Stata 17 MP.
 - Proceso automatizado para descargar, descomprimir y seleccionar los archivos `.dta` desde la página del INEI.
 - Eliminación automática de archivos extra y movimiento de archivos `.dta` a la carpeta `dta`.
+- Análisis y traducción de bases de datos para garantizar la compatibilidad de codificación.
 
 ## Requisitos Previos
 
@@ -48,6 +49,7 @@ Para utilizar el DO file y comenzar a trabajar con los datos de la ENAHO, sigue 
 1. Asegúrate de estar en el directorio correcto dentro de Stata.
 2. Ejecuta el DO file siguiendo las instrucciones de instalación.
 3. Los datos se descargarán, descomprimirán y seleccionarán automáticamente. Los archivos `.dta` se moverán a la carpeta `dta`, y los archivos extra serán eliminados.
+4. Los datos se traducirán para garantizar la compatibilidad de codificación.
 
 ## Contribuciones
 
