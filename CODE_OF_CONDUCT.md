@@ -34,7 +34,7 @@ Este Código de Conducta aplica tanto a los espacios del proyecto como a los esp
 
 ## Aplicación
 
-Las instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas contactando al autor del proyecto Manuel Antonio Díaz Floresa [a20224187@pucp.edu.pe]. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El autor del proyecto está obligado a mantener la confidencialidad con respecto al informante de un incidente. Más detalles de políticas específicas de aplicación pueden ser publicadas por separado.
+Las instancias de comportamiento abusivo, acosador o inaceptable pueden ser reportadas contactando al autor del proyecto Manuel Antonio Díaz Flores [a20224187@pucp.edu.pe]. Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El autor del proyecto está obligado a mantener la confidencialidad con respecto al informante de un incidente. Más detalles de políticas específicas de aplicación pueden ser publicadas por separado.
 
 Los mantenedores del proyecto que no sigan o hagan cumplir el Código de Conducta de buena fe pueden enfrentar repercusiones temporales o permanentes según lo determinen otros miembros de la dirección del proyecto.
 
